@@ -1,0 +1,23 @@
+<i class="fab fa-instagram"></i>
+
+<i class="fab fa-ubuntu"></i>
+<i class="fab fa-suse"></i>
+
+<i class="fas fa-heart"></i>
+<i class="far fa-heart"></i>
+
+<i class="fas fa-layer-minus"></i>
+<i class="fal fa-ellipsis-v-alt"></i>
+
+<i class="fas fa-align-justify"></i>
+
+<i class="far fa-user"></i>
+<i class="fas fa-user-alt"></i>
+
+<i class="fal fa-bullseye-arrow"></i>
+
+<i class="far fa-arrow-circle-right"></i>
+<i class="fas fa-arrow-circle-right"></i>
+
+<i class="far fa-arrow-circle-left"></i>
+<i class="fas fa-arrow-circle-left"></i>
